@@ -37,16 +37,3 @@ This app takes an image of any medicine and generates a prescription instantly c
 5. Generate API Key: https://makersuite.google.com/app/apikey
 6. Gemini: https://blog.google/technology/ai/gemini-api-developers-cloud/
 7. Gemini sample app: https://developer.android.com/studio/preview/gemini-template
-
-
-## Achievement:
-The project is featured in the official [MLDP Dec'23 Newsletter](https://medium.com/google-developer-experts/mldp-newsletter-dev-2023-machine-learning-communities-highlights-and-achievements-d48fd7f475bd) of Google Developer Experts on Medium.
-
-
-**Note**: This app is just a proof of concept and should not be used as an actual prescription. Please visit a doctor for any health-related matter.
-
-
-# Acknowledgment:
-<img src="https://github.com/NSTiwari/Medicine-Scan-with-Gemini/blob/main/google.png">
-
-Developed during Google's ML Developer Programs Gemini sprint, this project benefited from generous GCP credits that facilitated its completion. We express our gratitude to the MLDP team for the support provided.
