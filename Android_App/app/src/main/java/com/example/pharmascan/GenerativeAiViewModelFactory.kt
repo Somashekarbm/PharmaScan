@@ -22,7 +22,7 @@ val GenerativeViewModelFactory = object : ViewModelProvider.Factory {
                     // Initialize a GenerativeModel with the `gemini-pro-vision` AI model
                     // for multimodal text generation
                     val generativeModel = GenerativeModel(
-                        modelName = "gemini-pro-vision",
+                        modelName = "gemini-1.5-flash",
                         apiKey = "YOUR_API_KEY",
                         generationConfig = config
                     )
